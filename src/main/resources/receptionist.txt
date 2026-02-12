@@ -1,0 +1,2 @@
+jinming;jinming;1-Mar-1995;22;Male;1234567890;@.;Malay;111111111111;wed;1200;Afternoon Shift;Part-Time
+recep1;A dandelions Promise;12-Apr-1999;21;Male;123456789;@.;Malay;111111111111;jalan xxx;2000;Afternoon Shift;Part-Time

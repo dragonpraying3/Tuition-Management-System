@@ -1,0 +1,11 @@
+admin0;1234;admin
+tutor1;1234;tutor
+tutor2;1234;tutor
+jinming;1234;receptionist
+stu1;1234;student
+tutor3;1234;tutor
+tutor4;1234;tutor
+stu2;1234;student
+stu3;1234;student
+tutor5;1234;tutor
+recep1;1234;receptionist

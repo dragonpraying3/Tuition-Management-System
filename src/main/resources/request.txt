@@ -1,0 +1,3 @@
+stu1;R002;Chinese Language;Business Studies;jinming;pending
+stu1;R003;Science;Accounting;jinming;pending
+stu2;R004;Chinese Language;Mathematics;jinming;pending

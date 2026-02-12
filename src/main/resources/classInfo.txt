@@ -1,0 +1,6 @@
+tutor2;Bahasa Melayu;10:00am - 12:00pm;Monday;100;B-07-07
+tutor3;Science;2:00pm - 4:00pm;Wednesday;120;E-09-03
+tutor4;Science;4:00pm - 6:00pm;Saturday;120;B-05-05
+tutor2;Science;10:00am - 12:00pm;Wednesday;100;E-09-03
+tutor1;English;10:00am - 12:00pm;Monday;100;B-07-03
+tutor1;Chinese Language;3:00pm - 5:00pm;Monday;120;B-07-03

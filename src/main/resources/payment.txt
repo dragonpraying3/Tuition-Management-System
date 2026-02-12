@@ -1,0 +1,5 @@
+stu1;English;2025-05-01;Online;paid
+stu1;Chinese Language;2025-08-01;Cash;paid
+stu2;Chinese Language;2025-08-01;Card;Pending
+stu2;Bahasa Melayu;2025-08-01;Cash;Pending
+stu3;English;2025-08-01;Online;Pending
